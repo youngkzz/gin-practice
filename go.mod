@@ -1,4 +1,4 @@
-module example.com/weblogin
+module github.com/weblogin
 
 go 1.18
 
